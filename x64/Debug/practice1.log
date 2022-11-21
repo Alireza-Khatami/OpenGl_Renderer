@@ -1,0 +1,11 @@
+﻿  mainGame.cpp
+L:\glut and opnegl  graphics  assignment and practice\practice 1\practice1\src\mainGame.cpp(146,5): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+L:\glut and opnegl  graphics  assignment and practice\practice 1\practice1\src\mainGame.cpp(155,9): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+L:\glut and opnegl  graphics  assignment and practice\practice 1\practice1\src\mainGame.cpp(171,1): error C2129: static function 'void GLClearerore(void)' declared but not defined
+L:\glut and opnegl  graphics  assignment and practice\practice 1\practice1\src\Renderer.h(9): message : see declaration of 'GLClearerore'
+  VertexBuffer.cpp
+L:\glut and opnegl  graphics  assignment and practice\practice 1\practice1\src\VertexBuffer.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+L:\glut and opnegl  graphics  assignment and practice\practice 1\practice1\src\VertexBuffer.cpp(8,1): error C2059: syntax error: '}'
+L:\glut and opnegl  graphics  assignment and practice\practice 1\practice1\src\VertexBuffer.cpp(8,1): error C2143: syntax error: missing ';' before '}'
+L:\glut and opnegl  graphics  assignment and practice\practice 1\practice1\src\VertexBuffer.cpp(8,1): error C2238: unexpected token(s) preceding ';'
+  Generating Code...
